@@ -28,6 +28,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     image = image.resize(target_size)
     image_array = np.array(image)
+    input_arr = input_arr/255.0
     
     image_array = np.expand_dims(image_array, axis=0)
     # input_arr=np.expand_dims(input_arr,axis=0)
