@@ -43,9 +43,6 @@ if uploaded_file is not None:
          st.write("ModerateDemented")
     elif y_predict==2:
          st.write("NonDemented")
-    
-    
-
     else:
          st.write("verymild")
 
