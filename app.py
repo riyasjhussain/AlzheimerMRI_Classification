@@ -5,7 +5,6 @@
 
 
 import streamlit as st
-import tensorflow.keras as keras
 from PIL import Image
 from tensorflow.keras.utils import load_img,img_to_array
 import numpy as np
