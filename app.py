@@ -3,7 +3,7 @@
 
 # In[1]:
 
-import tensorflow
+import tensorflow as tf
 import streamlit as st
 from PIL import Image
 from tensorflow.keras.utils import load_img,img_to_array
