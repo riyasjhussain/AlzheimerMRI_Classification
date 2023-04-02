@@ -1,6 +1,10 @@
 ....absl-py==1.4.0
 anaconda-client==1.11.1
 anaconda-navigator==2.4.0
-ipykernel @ file:///C:/b/abs_b4f07tbsyd/croot/ipykernel_1672767104060/work
-ipython @ file:///C:/b/abs_d3h279dv3h/croot/ipython_1676582236558/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+mediapipe==0.9.0.1
+numpy==1.24.1
+opencv_python==4.7.0.68
+Pillow==9.4.0
+streamlit==1.17.0
+tensorflow==2.11.0
+mdurl==0.1.2
